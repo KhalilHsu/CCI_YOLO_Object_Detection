@@ -4,5 +4,5 @@ After being familiar with the OpenCV syntax, try to use the existing trained mod
 >
 > [Download .weights]()
 
-![Gif](https://github.com/KhalilHsu/CCI_learn_openCV/blob/main/pic/ezgif-2-d475f29c76bc.gif)
+![Gif](https://github.com/KhalilHsu/CCI_YOLO_Object_Detection/blob/main/cfg/ezgif-7-e39a8f009ce6.gif)
 
