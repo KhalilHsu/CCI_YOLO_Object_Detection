@@ -2,6 +2,8 @@
 
 After being familiar with the OpenCV syntax, try to use the existing trained model for object detection. 
 
+You need to download the <.weights> file below to run successfully.
+
 > [Details blog](https://www.notion.so/Object-Detection-d438dcbcb0ef46fa87cd5dc365c19102)
 >
 > [Download .weights files](https://drive.google.com/drive/folders/1mJnsmFTIXItkqvtA9Xu9NjRT9Cyjl40V?usp=sharing)
